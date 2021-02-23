@@ -1,0 +1,99 @@
+.blackheader{
+    width: 100%;
+    max-width: 100%;
+    min-width: 50%;
+    height: 48px;
+    background-color: rgba(0,0,0,0.8);;
+    margin-top: -17px;
+}
+.bheader{
+    text-align: center;
+    padding-top: 13px;
+}
+.inline{
+    display: inline;  
+}
+.inline1:hover{
+    background-color: goldenrod;
+}
+.inline1{
+    text-decoration: none;
+    color: #f5f5f7;
+    opacity: 0.85;
+    padding-right: 70px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;   
+}
+.blueheader{
+    width: 100%;
+    max-width: 100%;
+    min-width: 50%;
+    height: 43px;
+    background-color: #0071E3;
+    text-align: center;
+    margin-top: -16px;
+}
+.pbheader{
+    padding-top: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    color: #f5f5f7;
+}
+.lightgreyheader{
+    width: 100%;
+    max-width: 100%;
+    min-width: 50%;
+    height: 43px;
+    background-color: #fbfbfd;
+    margin-top: -15.5px;
+    text-align: center;
+    color: #1d1d1f;
+    opacity: 0.8;
+}
+.plgheader{
+    padding-top: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+.slg{
+    color: #0066cc;
+}
+.iphoneimg{
+    width: 100%;
+    max-width: 100%;
+    min-width: 50%;
+}
+.iphone12{
+    width: 100%;
+    max-width: 100%;
+    min-width: 50%;
+}
+.ipadimage{
+    width: 100%;
+    max-width: 100%;
+    min-width: 50%;
+}
+.animatedimg{
+    width: 100%;
+    max-width: 100%;
+    min-width: 50%;
+}
+.footer{
+    margin-top: 15px;
+    background-color: gainsboro;
+    width: 100%;
+    max-width: 100%;
+    min-width: 50%;
+    height: 450px;
+}
+.footertext{
+    margin: auto 150px auto 150px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    color: dimgray;
+    text-justify: auto;
+}
+.hrline{
+    margin: auto 120px auto 120px;
+    background-color: lightgrey;
+}    
